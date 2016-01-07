@@ -231,7 +231,7 @@ function create_config( )
     ‼️ this bot is made by :@Gmorr
    〰〰〰〰〰〰〰〰
    🚩 Our admins are : 
-   🔰 @Dwash_Sepehr
+   🔰 @Dawsh_Sepehr
    🔰 @mehrdadparsa_admin_devils
    🔰 @RyanGmmor
    〰〰〰〰〰〰〰〰
@@ -263,7 +263,7 @@ you Can do it By Replay 👤
 〰〰〰〰〰〰〰〰〰〰
 2. GroupManager :🔹
 
-!Creategroup "GroupName" 🙈
+!Creategp "GroupName" 🙈
 You Can CreateGroup With this command😱
 
 !lock member 😋
@@ -330,7 +330,7 @@ set some one to global admin🔸
 remove somone from global admin🔹
 〰〰〰〰〰〰〰〰〰〰〰
 3. Stats :©
-!stats creedbot (sudoers)✔️
+!stats shield (sudoers)✔️
 shows bt stats🔚
 
 !stats🔘
@@ -344,10 +344,13 @@ send maseage to admins via bot🔈
 !tagall txt🔸
 will tag users©
 〰〰〰〰〰〰〰〰〰
+!shieldbot
+To Know About Us
+〰〰〰〰〰〰〰〰
 🔜 more plugins 
 ⚠️ComingSoon... ⚠️
-our channel : @creedantispam_channel🔋
-You Can user both "!" & "/" for them🎧
+our channel : ComingSoon🔋
+You Can use both "!" & "/" for them🎧
 ]]
 
   }
