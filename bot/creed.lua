@@ -220,28 +220,27 @@ function create_config( )
     "lock_link",
     "all"
     },
-    sudo_users = {163437093,118682430,67018895},--Sudo users
+    sudo_users = {165727799,152644841},--Sudo users
     disabled_channels = {},
-    realm = {48687411,41151446},--Realms Id
+    realm = {42107060},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.0
+    about_text = [[Shield bot 3.2
     
      Hello my Good friends 😀🖐🏻
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by :@Gmorr
    〰〰〰〰〰〰〰〰
    🚩 Our admins are : 
-   🔰 @sorblack_creed
-   🔰 @amircc_creed
-   🔰 @aria_creed
-   🔰 @alireza_mah_creed 
+   🔰 @Dwash_Sepehr
+   🔰 @mehrdadparsa_admin_devils
+   🔰 @RyanGmmor
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    
    !feedback (your ideas and messages)
 ]],
     help_text = [[
-Creed bots Help for mods : 😈
+Shield bot Help for mods : 😈
 Plugins : 🔻
 
 1. banhammer ⭕️
@@ -346,7 +345,7 @@ send maseage to admins via bot🔈
 will tag users©
 〰〰〰〰〰〰〰〰〰
 🔜 more plugins 
-⚠️ We are Creeds ... ⚠️
+⚠️ComingSoon... ⚠️
 our channel : @creedantispam_channel🔋
 You Can user both "!" & "/" for them🎧
 ]]
